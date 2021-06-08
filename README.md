@@ -1,2 +1,4 @@
-# EstrategiasBigData
-Estrategias de Big Data Diplomatura  en Big Data &amp; Business Analytics
+## EstrategiasBigData
+# Diplomatura  en Big Data & Business Analytics (2021)
+### SIGLO 21
+
